@@ -24,19 +24,22 @@ Implement the following user story:
 
 * Fixed functionality of Search Engine Optimization option in navigation by adding id="search-engine-optimization" tag before class="search-engine-optimization".
 
-* 
+* Added alt attributes to images.
+
+* Added notes before distinct sections for sake of clarity.
 
 ## Fixes made to style.css
 
-* 
+* Created variables for color and font family that repeated 3 or more times.
 
-## 🏆 Bonus
+* Changed all instances of .header to just header.
 
-If you have completed this activity, work through the following challenge with your partner to further your knowledge:
+* Changed .header div, .header div ul, and .header div ul li (Lines 27, 35, and 39 in sample code respectively) to header nav, header nav ul, and header nav ul li.
 
-* What are the advantages of using semantic HTML elements?
+* Reordered rules to follow order of appearance in index.html (i.e: moved .content rules to directly underneath .hero's rule, etc.).
 
-Use [Google](https://www.google.com) or another search engine to research this.
+* Grouped shared rules.
 
----
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+* Changed all instances of .footer to just footer.
+
+* Added notes before distinct sections for sake of clarity.
