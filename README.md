@@ -20,7 +20,7 @@ Implement the following user story:
 
 * Created title based on company name.
 
-* Properly structured document with correct html elements (i.e.: changed <div class="header"> to <header>, changed <div> with <ul> to <nav>, changed <div class="hero"> to <section>, put seo section, reputation management section, and social media marketing section in <article>, put benefits section in <aside>, changed <div class="footer"> to <footer>)
+* Properly structured document with correct html elements (i.e.: changed "div class='header'" to "header"; changed "div" with "ul" to "nav"; changed "div class='hero'" to "section"; put seo section, reputation management section, and social media marketing section in "article"; put benefits section in "aside"; changed "div class='footer'" to "footer")
 
 * Fixed functionality of Search Engine Optimization option in navigation by adding id="search-engine-optimization" tag before class="search-engine-optimization".
 
@@ -34,7 +34,7 @@ Implement the following user story:
 
 * Changed all instances of .header to just header.
 
-* Changed .header div, .header div ul, and .header div ul li (Lines 27, 35, and 39 in sample code respectively) to header nav, header nav ul, and header nav ul li.
+* Changed ".header div", ".header div ul", and ".header div ul li" (Lines 27, 35, and 39 in sample code respectively) to "header nav", "header nav ul", and "header nav ul li".
 
 * Reordered rules to follow order of appearance in index.html (i.e: moved .content rules to directly underneath .hero's rule, etc.).
 
