@@ -43,3 +43,11 @@ Implement the following user story:
 * Changed all instances of .footer to just footer.
 
 * Added notes before distinct sections for sake of clarity.
+
+## Deployed Application
+https://griffin-woodson.github.io/challenge-horiseon/
+
+## Screenshot of Finished Webpage
+
+![griffin-woodson github io_challenge-horiseon](https://user-images.githubusercontent.com/95516308/190545682-d9096bd7-16ed-48d8-8e6d-f1d61077ec2e.png)
+
